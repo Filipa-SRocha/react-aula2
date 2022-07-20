@@ -1,0 +1,12 @@
+.cardsSectionContainer {
+	margin-top: 40px;
+}
+
+.cards {
+	display: flex;
+	justify-content: center;
+}
+
+.cardsTitle {
+	color: grey;
+}

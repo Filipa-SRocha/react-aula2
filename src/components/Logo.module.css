@@ -1,0 +1,12 @@
+.logoImg {
+	padding: 10px;
+	background-color: white;
+	border-radius: 100%;
+	width: 30px;
+	margin-right: 10px;
+}
+
+.logoContainer {
+	display: flex;
+	align-items: center;
+}

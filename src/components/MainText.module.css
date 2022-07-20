@@ -1,0 +1,21 @@
+.mainTextSection {
+	margin-top: 40px;
+	background-color: grey;
+	padding: 20px 40px;
+}
+
+.regularTextSection {
+	margin-top: 40px;
+	background-color: white;
+	padding: 20px 40px;
+}
+
+.mainText {
+	color: white;
+	text-align: justify;
+}
+
+.regularText {
+	color: grey;
+	text-align: justify;
+}

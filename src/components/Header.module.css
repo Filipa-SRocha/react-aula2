@@ -1,0 +1,7 @@
+.header {
+	padding: 10px 20px;
+	background-color: red;
+	width: 100vw;
+	display: flex;
+	color: white;
+}

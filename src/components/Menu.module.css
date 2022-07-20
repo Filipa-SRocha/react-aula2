@@ -1,0 +1,14 @@
+.menu {
+	display: flex;
+	list-style: none;
+	gap: 20px;
+}
+
+.menuFooter {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	list-style: none;
+	align-items: flex-start;
+	padding-inline-start: 0;
+}
